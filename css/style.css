@@ -426,7 +426,7 @@ html[dir="rtl"] .pdf-item:hover{ transform: translateX(3px); }
   display:flex; justify-content:space-between; gap:16px; margin: 50px 0 20px; flex-wrap:wrap;
 }
 .pager-btn{
-  flex:1; min-width:100px; display:flex; align-items:center; gap:12px; padding:16px 18px;
+  flex:1; min-width:200px; display:flex; align-items:center; gap:12px; padding:16px 18px;
   background: var(--card); border:1px solid var(--line); border-radius: var(--radius-m);
   transition: border-color .2s, transform .2s;
 }
