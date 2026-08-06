@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem("coptic-academy-theme");if(!t){t=(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light";}if(t==="dark")document.documentElement.classList.add("dark");}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>الصور و كتب — Learn Coptic  </title>
+<link rel="stylesheet" href="css/style.css">
+        <link rel="icon"  href="images/avaveny.png">
+</head>
+<body data-page="resources">
+
+
+<header class="site-header">
+  <div class="nav-wrap">
+    <a class="brand" href="index.html">
+      <span class="brand-mark"><span class="cross">⳼</span></span>
+      <span class="brand-text">  <small class="coptic-cap">Ϯ̣ⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲛ̀ⲭⲏⲙⲓ</small></span>
+    </a>
+    <nav class="main-nav" id="mainNav">
+       <a href="index.html" data-page="home"><span class="nav-cop">Ϯ̣ⲁ̀ⲣⲭⲏ</span><span class="nav-ar">الرئيسية</span></a>
+      <a href="videos.html" data-page="videos"><span class="nav-cop">Ⲛ̣ⲓⲱϣ</span><span class="nav-ar">الدروس</span></a>
+      <a href="resources.html" data-page="resources"><span class="nav-cop">Ⲛ̣ⲓϫⲱⲙ ⲛⲉⲙ ⲛ̣ⲓϩⲓⲕⲱⲛ</span><span class="nav-ar">الصور و الكتب</span></a>
+                  <a href="tamarin-list.html" data-page="tamarin"><span class="nav-cop">Ⲛ̣ⲓⲅⲩⲙⲛⲁⲥⲓ̀ⲁ</span><span class="nav-ar"> التدريبات</span></a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="themeToggle" title="الوضع الليلي" aria-label="تبديل الوضع الليلي">🌙</button>
+      <button class="nav-toggle" id="navToggle" aria-label="فتح القائمة">☰</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="section" style="padding-bottom:20px">
+    <div class="container">
+      <div class="illum-title" style="margin-bottom:26px">
+        <span class="illum-letter">Ⲅ̣</span>
+        <div><h2>الصور وكتب PDF</h2><p>مصادر إضافية لمرافقة رحلتك في تعلم اللغة القبطية</p></div>
+      </div>
+
+      <div class="res-tabs">
+        <button class="res-tab active" data-tab="books">ⳉ الكتب</button>
+        <button class="res-tab" data-tab="gallery">ⳉ معرض الصور</button>
+      </div>
+    <div class="search-bar">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="ابحث عن صور او كتب... مثال: الحروف">
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0" id="booksPanel">
+    <div class="container">
+      <div class="book-grid" id="booksGrid"></div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0; display:none" id="galleryPanel">
+    <div class="container">
+      <div class="gallery-grid" id="galleryGrid"></div>
+    </div>
+  </section>
+</main>
+
+<button class="scroll_up">
+    <img src="images/arrow-up.png">
+</button>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+<div class="footer-brand">⁖ اللغة القبطية - <span class="coptic-cap" style="font-size:.9rem; color:var(--gold-bright);">Ϯ̣ⲁⲥⲡⲓ ⲛ̀ⲣⲉⲙⲛ̀ⲭⲏⲙⲓ <br>
+        
+        <div class="logo"><img src="images/avaveny.png" class="footer-logo" alt="avaveny">
+           <div class="coptic-cap" >Ϯ̣ⲉⲕⲕ̀ⲗⲏⲥⲓ̀ⲁ ⲛ̀ⲧⲉ ⲁⲃⲃⲁ Ⲃⲉⲛⲓ ⲡⲓⲙⲁⲛⲇ̀ⲣⲏⲧⲓⲥ ⲛⲉⲙ ⲁⲃⲃⲁ Ⲁⲃⲣⲁⲁⲙ ⲉⲧϧⲉⲛ Ⲕⲁⲥⲣ Ϩⲟⲩⲣ</div>
+          </div>
+          </span>
+</div>
+      <nav class="footer-links">
+        <a href="index.html">الرئيسية</a>
+        <a href="videos.html">الفيديوهات</a>
+        <a href="resources.html">الصور و الكتب</a>
+                <a href="tamarin-list.html">التدريبات </a>
+      </nav>
+    </div>
+    <div class="footer-note">developed by <strong ><a href="https://www.facebook.com/mafde.ashak">mafde</a></strong></div>
+  </div>
+</footer>
+
+<!-- نافذة تكبير الصور -->
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" id="lightboxClose" aria-label="إغلاق">✕</button>
+  <a class="lightbox-dl" id="lightboxDl" download aria-label="تحميل الصورة">⬇</a>
+  <img id="lightboxImg" src="" alt="عرض مكبّر">
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/function.js"></script>
+<script src="js/video.js"></script>
+<script src="js/resources.js"></script>
+</body>
+</html>
