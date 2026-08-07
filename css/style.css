@@ -592,6 +592,10 @@ html[dir="rtl"] .pdf-item:hover{ transform: translateX(3px); }
 
 
 @media (max-width: 480px){
+
+  .cross1{
+  font-size:1.7rem ;}
+  
   .nav-wrap{ padding: 14px 16px; gap: 12px; }
 
   .brand-mark{
@@ -620,11 +624,11 @@ html[dir="rtl"] .pdf-item:hover{ transform: translateX(3px); }
   }
 
   .hero{
-    padding:60px 18px 50px;
+    padding:30px 18px 40px;
   }
 
   .hero-cross{
-    font-size:5rem;
+    font-size:6rem;
     margin-bottom:50px;
   }
 
