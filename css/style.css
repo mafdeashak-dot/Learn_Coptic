@@ -765,14 +765,16 @@ transition: .5s;
     
 }
 .name-arb{
-  margin-bottom: 60px;
-font-family: "Amiri", sans-serif;
+    margin-bottom: 60px;
+ font-family:"Cairo",sans-serif;
     font-size:  1.1rem;
-    font-weight: 600;
-    color: #ffff8a;
-    line-height: 1.5;
+    font-weight:900;
+    color:#F5EEDF;
+    text-shadow:
+        2px 2px 0 rgba(0,0,0,.08),
+        0 0 12px rgba(255,255,255,.25);
+    line-height:1.7;
 }
-
 
 
 .name-cop{
