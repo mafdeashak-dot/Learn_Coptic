@@ -693,6 +693,9 @@ const GALLERY_IMAGES = [
     src: "images/image3.jpeg",
     title: "جدول الأزمنة ونفيها 1"
   },
+  {src: "https://drive.google.com/thumbnail?id=1zUloQizmy-YxxUrSDnuOe6a1Ha-GcVtl&sz=w2000",
+    title: "جدول الأزمنة ونفيها 2"
+  },
   {
     src: "images/image4.jpeg",
    title:"افعال مهمة للحفظ"
