@@ -175,7 +175,7 @@ background: linear-gradient(to right, #ffee00, #f8f6f6);
 /* ---------- هيرو الصفحة الرئيسية ---------- */
 .hero{
   position:relative; overflow:hidden;
-  padding: 20px 20px 70px;
+  padding: 30px 20px 70px;
   text-align:center;
   background: linear-gradient(180deg, var(--nile) 0%, var(--nile-2) 100%);
   color:#F4E9C9;
@@ -559,7 +559,7 @@ html[dir="rtl"] .pdf-item:hover{ transform: translateX(3px); }
   }
   .main-nav a .nav-cop{ font-size:1.1rem; }
   .main-nav a .nav-ar{ font-size:.9rem; opacity:.9; }
-  .hero{ padding: 60px 16px 50px; }
+  .hero{ padding:30px 18px 40px; }
   .hero-glyphs{ font-size:6rem; }
   .lesson-pager{ flex-direction:row; }
   .pager-btn.next{ justify-content:flex-start; text-align:right; }
