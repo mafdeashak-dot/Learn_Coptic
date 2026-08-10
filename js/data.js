@@ -621,6 +621,19 @@ thumbnail: "images/image.png",
     "pdfs": [],
     "images": []
   }
+  ,
+   { "id": 37,
+    "title": "زمن المستقبل التاكيدي (اليقيني)",
+    "category": ["الأزمنة"],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/dxPx4-8tbF4",
+    "duration": "",
+    "explanation": "",
+    "pdfs": [],
+    "images": []
+  }
+
 ];
  
   
