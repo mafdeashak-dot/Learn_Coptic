@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <script>(function(){try{var t=localStorage.getItem("coptic-academy-theme");if(!t){t=(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light";}if(t==="dark")document.documentElement.classList.add("dark");}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>الصور و كتب — Learn Coptic  </title>
+<title>الصور  — Learn Coptic  </title>
 <link rel="stylesheet" href="css/style.css">
         <link rel="icon"  href="images/avaveny.png">
 </head>
@@ -20,11 +20,11 @@
     <nav class="main-nav" id="mainNav">
        <a href="index.html" data-page="home"><span class="nav-cop">Ϯ̣ⲁ̀ⲣⲭⲏ</span><span class="nav-ar">الرئيسية</span></a>
       <a href="videos.html" data-page="videos"><span class="nav-cop">Ⲛ̣ⲓⲱϣ</span><span class="nav-ar">الدروس</span></a>
-      <a href="resources.html" data-page="resources"><span class="nav-cop">Ⲛ̣ⲓϫⲱⲙ ⲛⲉⲙ ⲛ̣ⲓϩⲓⲕⲱⲛ</span><span class="nav-ar">الصور و الكتب</span></a>
+      <a href="resources.html" data-page="resources"><span class="nav-cop">ⲛ̣ⲓϩⲓⲕⲱⲛ</span><span class="nav-ar">الصور </span></a>
                   <a href="tamarin-list.html" data-page="tamarin"><span class="nav-cop">Ⲛ̣ⲓⲅⲩⲙⲛⲁⲥⲓ̀ⲁ</span><span class="nav-ar"> التدريبات</span></a>
     </nav>
     <div class="header-actions">
-      <button class="icon-btn" id="themeToggle" title="الوضع الليلي" aria-label="تبديل الوضع الليلي">🌙</button>
+      <button class="icon-btn" id="themeToggle" title="الوضع الليلي" aria-label="تبديل الوضع الليلي"><img src="images/moon.png"></button>
       <button class="nav-toggle" id="navToggle" aria-label="فتح القائمة">☰</button>
     </div>
   </div>
@@ -35,27 +35,18 @@
     <div class="container">
       <div class="illum-title" style="margin-bottom:26px">
         <span class="illum-letter">Ⲅ̣</span>
-        <div><h2>الصور وكتب PDF</h2><p>مصادر إضافية لمرافقة رحلتك في تعلم اللغة القبطية</p></div>
+        <div><h2>الصور </h2><p>مصادر إضافية لتعلم اللغة القبطية</p></div>
       </div>
 
-      <div class="res-tabs">
-        <button class="res-tab active" data-tab="books">ⳉ الكتب</button>
-        <button class="res-tab" data-tab="gallery">ⳉ معرض الصور</button>
-      </div>
+     
     <div class="search-bar">
         <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" placeholder="ابحث عن صور او كتب... مثال: الحروف">
+        <input type="text" id="searchInput" placeholder="ابحث عن صور ......... مثال: الحروف">
       </div>
     </div>
   </section>
 
-  <section class="section" style="padding-top:0" id="booksPanel">
-    <div class="container">
-      <div class="book-grid" id="booksGrid"></div>
-    </div>
-  </section>
-
-  <section class="section" style="padding-top:0; display:none" id="galleryPanel">
+  <section class="section" style="padding-top:0; " id="galleryPanel">
     <div class="container">
       <div class="gallery-grid" id="galleryGrid"></div>
     </div>
