@@ -159,7 +159,7 @@ thumbnail: "images/image.png",
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/JgAdtqpZ67o",
-    "duration": "",
+    "duration": "6:51",
  "explanation": `
 <h3>📖 القاعدة الذهبية</h3>
 
@@ -345,66 +345,131 @@ thumbnail: "images/image.png",
   },
   {
     "id": 14,
-    "title": "اثنا عشر قاعدة للكلمات اليونانية",
-    "category": ["أصل الكلمة اللغوي"],
-    "description": "",
-    "thumbnail": "images/image.png",
-    "video": "https://youtu.be/b9_5OwxasZ0",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
-    "images": []
-  },
-  {
-    "id": 15,
     "title": "أدوات النكرة",
     "category": ["أدوات النكرة والمعرفة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/FER2OEgpmhw",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "5:01",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">  ادوات النكرة   </th></tr>
+    <tr> 
+      <th>الاداه</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>ⲟⲩ</td> 
+      <td>مفرد  </td>  
+    </tr>
+     <tr> 
+          <td>ϩⲁⲛ</td> 
+      <td>جمع</td>    
+    </tr> 
+    </table>
+  
+    `, 
+        "pdfs": [],
     "images": []
   },
   {
-    "id": 16,
-    "title": "أدوات المعرفة للمفرد والجمع",
+    "id": 15,
+    "title": "أدوات المعرفة للمفرد المذكر والجمع",
     "category": ["أدوات النكرة والمعرفة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/4sgCgoby8_g",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "11:27",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">  ادوات المعرفة للمفرد المذكر   </th></tr>
+    <tr> 
+      <th>الاداه</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>ⲡⲓ</td> 
+      <td>عامة  </td>  
+    </tr>
+<tr>
+    <td >
+        ⲫ̀ : لازم يجي بعدها الحروف دي ⲃ , ⲓ , ⲗ , ⲙ , ⲛ , ⲟⲩ , ⲣ + حرف متحرك
+    </td>
+    <td rowspan="2">خاصة</td>
+</tr>
+<tr>
+ <td>ⲡ̀</td>
+</tr>
+
+    </table>
+  `,     
+  "pdfs": [],
     "images": []
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "أدوات المعرفة للمؤنث",
     "category": ["أدوات النكرة والمعرفة" ],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/rcs4zpGc0Lo",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "4:05",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">  ادوات المعرفة للمفرد المذكر   </th></tr>
+    <tr> 
+      <th>الاداه</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>Ϯ</td> 
+      <td>عامة  </td>  
+    </tr>
+<tr>
+    <td >
+        ⲑ̀ : لازم يجي بعدها الحروف دي ⲃ , ⲓ , ⲗ , ⲙ , ⲛ , ⲟⲩ , ⲣ + حرف متحرك
+    </td>
+    <td rowspan="2">خاصة</td>
+</tr>
+<tr>
+ <td>ⲧ̀</td>
+</tr>
+    </table>
+  `, 
+      "pdfs": [],
     "images": []
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "المضاف وأدواته وأداة المعرفة للجمع",
     "category": ["أدوات النكرة والمعرفة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/4wAfNmId0s8",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "10:03",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">  ادوات المعرفة للمفرد المذكر   </th></tr>
+    <tr> 
+      <th>الاداه</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>ⲛ̀ⲧⲉ</td> 
+      <td>عامة  </td>  
+    </tr>
+<tr>
+    <td >
+        ⲙ̀ : لازم يجي بعدها الحروف الشفهية (Ⲃ , Ⲙ , Ⲫ , Ⲯ , Ⲡ) 
+    </td>
+    <td rowspan="2">خاصة</td>
+</tr>
+<tr>
+ <td>ⲛ̀</td>
+</tr>
+    </table>
+  `, 
+      "pdfs": [],
     "images": []
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "قواعد فرعية لأدوات النكرة والمعرفة",
     "category": ["أدوات النكرة والمعرفة"],
     "description": "",
@@ -416,7 +481,7 @@ thumbnail: "images/image.png",
     "images": []
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "حالات حذف أدوات النكرة والمعرفة",
     "category": ["أدوات النكرة والمعرفة"],
     "description": "",
@@ -428,7 +493,7 @@ thumbnail: "images/image.png",
     "images": []
   },
   {
-    "id": 21,
+    "id": 20,
     "title": "نطق بعض الكلمات الصعبة",
     "category": ["الحروف القبطية"],
     "description": "",
@@ -440,82 +505,215 @@ thumbnail: "images/image.png",
     "images": []
   },
   {
-    "id": 22,
+    "id": 21,
     "title": "فعل الكينونة",
     "category": ["فعل الكينونة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/TDg5a8tkfYQ",
-    "duration": "",
+    "duration": "4:18",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">  فعل الكينونة  </th></tr>
+
+    <tr> 
+      <th>التصريف</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>ⲡⲉ</td> 
+      <td>مفرد مذكر </td>  
+    </tr><tr>  
+          <td>ⲧⲉ</td> 
+      <td>مفرد مؤنث</td>  
+    </tr> <tr> 
+          <td>ⲛⲉ</td> 
+      <td>جمع</td>    
+    </tr> 
+    </table>
+    
+    <p>
+    مثال :-
+    <br>
+    ⲛ̀ⲑⲟ ⲧⲉ ϯϣⲟⲩⲣⲏ</p>
+    `, 
+        "pdfs": [],
+    "images": []
+  },
+  {
+    "id": 22,
+    "title": "تابع فعل الكينونة",
+    "category": ["فعل الكينونة"],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/LxS00X4kNPw",
+    "duration": "12:02",
     "explanation": "",
     "pdfs": [],
     "images": []
   },
   {
     "id": 23,
-    "title": "تابع فعل الكينونة",
-    "category": ["فعل الكينونة"],
-    "description": "",
-    "thumbnail": "images/image.png",
-    "video": "https://youtu.be/TDg5a8tkfYQ",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
-    "images": []
-  },
-  {
-    "id": 24,
     "title": "صفات الملكية",
     "category": ["صفات الملكية"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/-wM5lYHk5Lc",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "15:44",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="4">  صفات الملكية </th></tr>
+
+    <tr> 
+                <th>مملوك جمع</th> 
+            <th>مملوك مؤنث</th> 
+        <th>مملوك مذكر </th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+          <td>ⲛⲁ</td> 
+      <td>ⲧⲁ</td> 
+     <td>ⲡⲁ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+       <td>ⲛⲉⲛ</td> 
+      <td>ⲧⲉⲛ</td> 
+     <td>ⲡⲉⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+          <td>ⲛⲉ</td> 
+      <td>ⲧⲉ</td> 
+     <td>ⲡⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+       <td>ⲛⲉⲕ</td> 
+      <td>ⲧⲉⲕ</td> 
+     <td>ⲡⲉⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+          <td>ⲛⲉϥ</td> 
+      <td>ⲧⲉϥ</td> 
+     <td>ⲡⲉϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr>     <td>ⲛⲉⲥ</td> 
+      <td>ⲧⲉⲥ</td> 
+     <td>ⲡⲉⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲛⲟⲩ</td> 
+      <td>ⲧⲟⲩ</td> 
+     <td>ⲡⲟⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+    <td>ⲛⲉⲧⲉ</td> 
+      <td>ⲧⲉⲧⲉ</td> 
+     <td>ⲡⲉⲧⲉ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr>
+    </table>`,
+        "pdfs": [],
     "images": []
   },
   {
-    "id": 25,
+    "id": 24,
     "title": "صفات الملكية للأسماء النكرة",
     "category": ["صفات الملكية"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/sKqzASc2R7Y",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "10:11",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="4">  صفات الملكية للاسماء النكرة</th></tr>
+
+    <tr> 
+      <th> تصريف ⲛ̀ⲧⲉ</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+          <td>ⲛ̀ⲧⲏⲓ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr>  
+     <td>ⲛ̀ⲧⲁⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+     <td>ⲛ̀ⲧⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+     <td>ⲛ̀ⲧⲁⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+     <td>ⲛ̀ⲧⲁϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr>  
+     <td>ⲛ̀ⲧⲁⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+     <td>ⲛ̀ⲧⲱⲟⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+    <td>ⲛ̀ⲧⲱⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr>
+    </table>
+    <p>
+    مثال :-
+    <br>
+    ⲟⲩϫⲱⲙ ⲛ̀ⲧⲉ
+    </p>
+    `,
+        "pdfs": [],
     "images": []
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "صفات الملكية الخاصة بأعضاء جسم الانسان",
     "category": ["صفات الملكية"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/v7yRggWENlw",
-    "duration": "",
+    "duration": "17:01",
     "explanation": "",
     "pdfs": [],
-    "images": []
+    "images": ["images/image2.jpeg"]
   },
   
   {
-    "id": 27,
+    "id": 26,
     "title": "أسماء الاشارة للقريب",
     "category": ["أسماء الاشارة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/jl-HQOcii2U",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "15:28",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="3">  اسماء الاشارة للقريب</th></tr>
+
+    <tr> 
+      <th> منفصل </th> 
+      <th>متصل</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+              <td>ⲡⲁⲓ</td> 
+          <td>ⲫⲁⲓ</td> 
+      <td>مذكر</td>  
+    </tr><tr>  
+          <td>ⲧⲁⲓ</td> 
+          <td>ⲑⲁⲓ</td> 
+      <td>مؤنث</td>  
+    </tr> <tr> 
+        <td>ⲛⲁⲓ</td> 
+          <td>ⲛⲁⲓ</td> 
+      <td>جمع</td>    
+    </tr> 
+    </table>`, 
+       "pdfs": [],
     "images": []
   },
   {
-    "id": 28,
+    "id": 27,
     "title": "حل امتحان القبطي 1",
-    "category": ["أسماء الاشارة"],
+    "category": [""],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/aiOdIYhcGus?si=s29HD2IxWhnNSxU8",
@@ -526,21 +724,25 @@ thumbnail: "images/image.png",
   },
  
   {
-    "id": 29,
+    "id": 28,
     "title": "أسماء الاشارة للبعيد",
     "category": ["أسماء الاشارة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/iZwzYuGdMU8",
-    "duration": "",
-    "explanation": "",
+    "duration": "14:03",
+    "explanation":  ` <strong> اهم معلومة في الفيديو </strong> 
+    <br>
+    ⲉ̀ⲧⲉⲙ̀ⲙⲁⲩ : اسم اشارة للبعيد ياتي بعد الاسم
+    
+    `,
     "pdfs": [],
     "images": []
   },
   {
-    "id": 30,
+    "id": 29,
     "title": "حل امتحان القبطي 2",
-    "category": ["أسماء الاشارة"],
+    "category": [""],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/QUujOqW11gI",
@@ -549,90 +751,405 @@ thumbnail: "images/image.png",
     "pdfs": [],
     "images": []
   },
-  {
-    "id": 31,
+
+  /*---------------زمن الحاضر الاول----------------*/
+  {"id": 30,
     "title": "زمن الحاضر الاول (المضارع البسيط)",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/TfqXbzM2IRY",
-    "duration": "",
-    "explanation": "",
+    "duration": "8:40",
+    "explanation":`
+    <table class="my-table">
+        <tr class="row">  <th colspan="3">زمن الحاضر الاول و تصريفاته  </th></tr>
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ϯ.... ⲁⲛ</td> 
+     <td>ϯ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲧⲉⲛ.... ⲁⲛ</td> 
+     <td>ⲧⲉⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲧⲉ.... ⲁⲛ</td> 
+     <td>ⲧⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲕ̀.... ⲁⲛ</td> 
+     <td>ⲕ̀</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ϥ̀.... ⲁⲛ</td> 
+     <td>ϥ̀</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲥ̀.... ⲁⲛ</td> 
+     <td>ⲥ̀</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲥⲉ.... ⲁⲛ</td> 
+     <td>ⲥⲉ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲧⲉⲧⲉⲛ.... ⲁⲛ</td> 
+     <td>ⲧⲉⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr>
+    </table>
+    <p>
+    <strong>📝 ملحوظة</strong>
+    <br>
+   1- لو الفعل بدا باحد هذه الحروف ⲙ , ⲛ , ⲟⲩ
+    <br>
+    نحول ⲕ̀ الي ⲭ̀
+    <br>    <br>
+
+2- لتاكيد النفي احط ⲛ̀ قبل الفعل 
+    <br>مثال :- ⲛ̀ϯϣ̀ⲗⲏⲗ ⲁⲛ  انا لااصلي مطلقا
+    </p>
+   `,
     "pdfs": [],
     "images": []
   },
-  {
-    "id": 32,
+
+  /*---------------زمن المستقبل الاول----------------*/
+
+  {"id": 31,
     "title": "زمن المستقبل الأول",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/iHzpSf6tBDo",
-    "duration": "",
-    "explanation": "",
+    "duration": "7:43",
+    "explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="3">زمن المستقبل الاول و تصريفاته  </th></tr>
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ϯⲛⲁ.... ⲁⲛ</td> 
+     <td>ϯⲛⲁ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲧⲉⲛⲛⲁ.... ⲁⲛ</td> 
+     <td>ⲧⲉⲛⲛⲁ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲧⲉⲣⲁ.... ⲁⲛ</td> 
+     <td>ⲧⲉⲣⲁ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲭ̀ⲛⲁ.... ⲁⲛ</td> 
+     <td>ⲭ̀ⲛⲁ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ϥ̀ⲛⲁ.... ⲁⲛ</td> 
+     <td>ϥ̀ⲛⲁ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲥ̀ⲛⲁ.... ⲁⲛ</td> 
+     <td>ⲥ̀ⲛⲁ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲥⲉⲛⲁ.... ⲁⲛ</td> 
+     <td>ⲥⲉⲛⲁ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲧⲉⲧⲉⲛⲛⲁ.... ⲁⲛ</td> 
+     <td>ⲧⲉⲧⲉⲛⲛⲁ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr>
+    </table>`,
     "pdfs": [],
     "images": []
   },
+
+
+/*---------------زمن الماضي التام----------------*/
   {
-    "id": 33,
+    "id": 32,
     "title": "زمن الماضي التام",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/v_ng0yxJFzQ",
-    "duration": "",
-    "explanation": "",
+    "duration": "12:20",
+    "explanation": `
+    <table class="my-table">
+       <tr class="row">  <th colspan="3">زمن الماضي التام و تصريفاته  </th></tr>
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ⲙ̀ⲡⲓ</td> 
+     <td>ⲁⲓ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲉⲛ</td> 
+     <td>ⲁⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲉ</td> 
+     <td>ⲁⲣⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲉⲕ</td> 
+     <td>ⲁⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲉϥ</td> 
+     <td>ⲁϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲙ̀ⲡⲉⲥ</td> 
+     <td>ⲁⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲟⲩ</td> 
+     <td>ⲁⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲉⲧⲉⲛ</td> 
+     <td>ⲁⲧⲉⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲉ</td> 
+     <td>ⲁ</td> 
+      <td>الاداه المنفصلة</td>  
+    </tr>
+    </table>`,
     "pdfs": [],
     "images": []
   },
   {
-    "id": 34,
+    "id": 33,
     "title": "علامة الفاعل و علامة المفعول",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/KBTlvWiw_PI",
-    "duration": "",
+    "duration": "13:12",
     "explanation": "",
     "pdfs": [],
     "images": []
   },
-  {
-    "id": 35,
+
+  /*--------------زمن المضارع الدال علي العادة---------------*/
+
+  { "id": 34,
     "title": "زمن المضارع الدال علي العادة",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/me6me1x3SuQ",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "14:30",
+"explanation": `
+    <table class="my-table">
+  <tr class="row">  <th colspan="3">زمن  المضارع الدال علي العادة و تصريفاته  </th></tr>
+
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ⲙ̀ⲡⲁⲓ</td> 
+     <td>ϣⲁⲓ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲁⲛ</td> 
+     <td>ϣⲁⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲁⲣⲉ</td> 
+     <td>ϣⲁⲣⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲁⲕ</td> 
+     <td>ϣⲁⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲁϥ</td> 
+     <td>ϣⲁϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲙ̀ⲡⲁⲥ</td> 
+     <td>ϣⲁⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲁⲩ</td> 
+     <td>ϣⲁⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲡⲁⲣⲉⲧⲉⲛ</td> 
+     <td>ϣⲁⲣⲉⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲡⲁⲣⲉ</td> 
+     <td>ϣⲁⲣⲉ</td> 
+      <td>الاداه المنفصلة</td>  
+    </tr>
+    </table>`,
+        "pdfs": [],
     "images": []
   }
   ,
-   { "id": 36,
+    /*--------------زمن المضارع الدال علي الحال---------------*/
+
+   { "id": 35,
     "title": "زمن المضارع الدال علي الحالة (الحاضر الثالث)",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/3-BBp6dyYrY",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "8:18",
+ "explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="3">زمن  المضارع الدال علي الحالة و تصريفاته  </th></tr>
+
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ⲉⲓ.... ⲁⲛ</td> 
+     <td>ⲉⲓ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲉⲛ.... ⲁⲛ</td> 
+     <td>ⲉⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲉⲣⲉ.... ⲁⲛ</td> 
+     <td>ⲉⲣⲉ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲉⲕ.... ⲁⲛ</td> 
+     <td>ⲉⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲉϥ.... ⲁⲛ</td> 
+     <td>ⲉϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲉⲥ.... ⲁⲛ</td> 
+     <td>ⲉⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲉⲩ.... ⲁⲛ</td> 
+     <td>ⲉⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲉⲣⲉⲧⲉⲛ.... ⲁⲛ</td> 
+     <td>ⲉⲣⲉⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr><tr> 
+         <td>ⲉⲣⲉ ........ ⲁⲛ</td> 
+     <td>ⲉⲣⲉ</td> 
+      <td>الاداه المنفصلة</td>  
+    </tr>
+    </table>`,
+        "pdfs": [],
     "images": []
   }
-  ,
-   { "id": 37,
+ ,
+   { "id": 36,
     "title": "زمن المستقبل التاكيدي (اليقيني)",
     "category": ["الأزمنة"],
     "description": "",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/dxPx4-8tbF4",
-    "duration": "",
-    "explanation": "",
-    "pdfs": [],
+    "duration": "15:30",
+"explanation": `
+    <table class="my-table">
+    <tr class="row">  <th colspan="3">زمن المستقبل التاكيدي و تصريفاته  </th></tr>
+    <tr> 
+            <th>النفي</th> 
+        <th>التصريف</th> 
+      <th>الضمير</th>  
+    </tr><tr> 
+      <td>ⲛ̀ⲛⲁ</td> 
+     <td>ⲉⲓⲉ̀</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲛ̀ⲛⲉⲛ</td> 
+     <td>ⲉⲛⲉ̀</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲛ̀ⲛⲉ</td> 
+     <td>ⲉⲣⲉⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲛ̀ⲛⲉⲕ</td> 
+     <td>ⲉⲕⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲛ̀ⲛⲉϥ</td> 
+     <td>ⲉϥⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲛ̀ⲛⲉⲥ</td> 
+     <td>ⲉⲥⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲛ̀ⲛⲟⲩ</td> 
+     <td>ⲉⲩⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲛ̀ⲛⲉⲧⲉⲛ</td> 
+     <td>ⲉⲣⲉⲧⲉⲛⲉ̀</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr><tr> 
+         <td>ⲛ̀ⲛⲉ</td> 
+     <td>ⲉⲣⲉⲉ̀</td> 
+      <td>الاداه المنفصلة</td>  
+    </tr>
+    </table>`,
+        "pdfs": [],
     "images": []
   }
+
+
+,
+  {
+    "id": 37,
+    "title": "أفعال النهى",
+    "category": ["الأزمنة"],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/Pp__sMkWfb4",
+    "duration": "10:07",
+"explanation": `
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">   افعال النهي   </th></tr>
+    <tr> 
+      <th>الاداه</th>  
+            <th>النوع</th>  
+    </tr><tr> 
+          <td>ⲙ̀ⲡⲉⲣ</td> 
+      <td>نهي بسيط  </td>  
+    </tr>
+     <tr> 
+          <td>مع ضمائر المخاطب (ⲛ̀ⲛⲉ , ⲛ̀ⲛⲉⲕ , ⲛ̀ⲛⲉⲧⲉⲛ)</td> 
+      <td>نهي مؤكد  </td>  
+    </tr> 
+     <tr> 
+          <td>مع ضمائر الغائب ( ⲙ̀ⲡⲉⲛⲑⲣⲉ )</td> 
+      <td>نهي مبالغة  </td>  
+    </tr> 
+    </table>
+    `,
+        "pdfs": [],
+    "images": []
+  },
+
 
 ];
  
@@ -713,9 +1230,10 @@ const GALLERY_IMAGES = [
     src: "images/image4.jpeg",
    title:"افعال مهمة للحفظ"
   },
-{
-    src: "images/image11.jpeg",
+
+{src: "images/image11.jpeg",
    title:"بعض افعال الحواس"
   },
+
 
 ];
