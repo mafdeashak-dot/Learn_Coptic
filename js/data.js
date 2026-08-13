@@ -1150,7 +1150,19 @@ thumbnail: "images/image.png",
     "images": []
   },
 
-
+ {
+    "id": 38,
+    "title": "أفعال الامر",
+    "category": ["الأزمنة"],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/sM4ae_tNaTM?si=K84sj1cXeolpDCvc",
+    "duration": "22:39",
+"explanation": "",
+        "pdfs": [],
+    "images": []
+  }
+  
 ];
  
   
