@@ -937,9 +937,95 @@ thumbnail: "images/image.png",
     "thumbnail": "images/image.png",
     "video": "https://youtu.be/KBTlvWiw_PI",
     "duration": "13:12",
-    "explanation": "",
+"explanation": `
+<table class="my-table">
+        <tr class="row">  <th colspan="2">   علامة  الفاعل    </th></tr>
+    <tr> 
+      <th>الاستخدام</th>  
+            <th>الاداه</th>  
+    </tr><tr> 
+            <td>    لما الفعل ياتي قبل الفاعل 
+            <hr>
+            مثال : ⲁϥϣ̀ⲗⲏⲗ ⲛ̀ϫⲉ ⲡⲓⲇⲓⲁⲕⲱⲛ
+            </td>  
+      <td> ⲛ̀ϫⲉ  </td>  
+    </tr>
+        </table>
+
+            <hr>
+
+    <table class="my-table">
+        <tr class="row">  <th colspan="2">   علامة المفعول به    </th></tr>
+    <tr> 
+      <th>الاستخدام</th>  
+            <th>الاداه</th>  
+    </tr><tr> 
+            <td>مع افعال الحواس مثل :- ⲛⲁⲩ يري </td>  
+      <td> ⲉ̀  </td>  
+    </tr>
+     <tr> 
+          <td> لما المفعول يبدا بحرف من الحروف الشفهية : (Ⲃ , Ⲙ , Ⲫ , Ⲯ , Ⲡ) </td> 
+      <td> ⲙ̀  </td>  
+    </tr> 
+     <tr> 
+          <td> مع باقي الافعال </td> 
+      <td> ⲛ̀  </td>  
+    </tr> 
+    </table>
+
+            <hr>
+<table class="my-table">
+        <tr class="row">  <th colspan="3">   علامة المفعول به (ضمير)    </th></tr>
+    <tr> 
+      <th> تصريف ⲙ̀ⲙⲟ</th>  
+            <th > تصريف ⲉ̀ⲣⲟ</th>  
+                        <th > الضمير </th>   </tr>
+
+          <tr>
+                    <td>مع باقي الافعال</td>
+                      <td>مع افعال الحواس مثل :- ⲛⲁⲩ يري </td>  
+          <td>الاستخدام</td>
+          </tr>            
+      <tr> 
+
+      <td>ⲙ̀ⲙⲟⲓ</td> 
+     <td>ⲉ̀ⲣⲟⲓ</td> 
+      <td>Ⲁ̀ⲛⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲙⲟⲛ</td> 
+     <td>ⲉ̀ⲣⲟⲛ</td> 
+      <td>Ⲁ̀ⲛⲟⲛ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲙⲟ</td> 
+     <td>ⲉ̀ⲣⲟ</td> 
+      <td>Ⲛ̀ⲑⲟ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲙⲟⲕ</td> 
+     <td>ⲉ̀ⲣⲟⲕ</td> 
+      <td>Ⲛ̀ⲑⲟⲕ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲙⲟϥ</td> 
+     <td>ⲉ̀ⲣⲟϥ</td> 
+      <td>Ⲛ̀ⲑⲟϥ</td>  
+    </tr>
+ <tr> <td>ⲙ̀ⲙⲟⲥ</td> 
+     <td>ⲉ̀ⲣⲟⲥ</td> 
+      <td>Ⲛ̀ⲑⲟⲥ</td>  
+    </tr><tr> 
+         <td>ⲙ̀ⲙⲱⲟⲩ</td> 
+     <td>ⲉ̀ⲣⲱⲟⲩ</td> 
+      <td>Ⲛ̀ⲑⲱⲟⲩ</td>  
+    </tr> <tr> 
+         <td>ⲙ̀ⲙⲱⲧⲉⲛ</td> 
+     <td>ⲉ̀ⲣⲱⲧⲉⲛ</td> 
+      <td>Ⲛ̀ⲑⲱⲧⲉⲛ</td>  
+    </tr>  
+        </table>
+
+    `,
+    
     "pdfs": [],
-    "images": []
+    "images": [ "images/image11.jpeg" ]
   },
 
   /*--------------زمن المضارع الدال علي العادة---------------*/
