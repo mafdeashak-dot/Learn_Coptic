@@ -1354,6 +1354,18 @@ thumbnail: "images/image.png",
    "pdfs": [],
     "images": ["images/image20.png"]
   }
+ {
+    "id": 39,
+    "title": " النعت",
+    "category": [""],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/w4jj1zuCGpY?si=ArPB14qpcBufFnW4",
+    "duration": "20:06",
+"explanation": "",
+            "pdfs": [],
+    "images": []
+  }
   
 ];
  
