@@ -1365,7 +1365,7 @@ thumbnail: "images/image.png",
     "duration": "20:06",
 "explanation": "",
             "pdfs": [],
-    "images": []
+"images": ["https://drive.google.com/thumbnail?id=1HgK8wEeyn5XRKYPhnpMmkQEnsU8YJjMp&sz=w2000"]
   }
   
 ];
@@ -1455,5 +1455,7 @@ const GALLERY_IMAGES = [
 {src: "images/image20.png",
    title:"ملخص أفعال الأمر"
   },
-
+{src: "https://drive.google.com/thumbnail?id=1HgK8wEeyn5XRKYPhnpMmkQEnsU8YJjMp&sz=w2000",
+   title:"ملخص النعت "
+  },
 ];
