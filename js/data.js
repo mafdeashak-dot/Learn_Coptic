@@ -1366,7 +1366,21 @@ thumbnail: "images/image.png",
 "explanation": "",
             "pdfs": [],
 "images": ["https://drive.google.com/thumbnail?id=1HgK8wEeyn5XRKYPhnpMmkQEnsU8YJjMp&sz=w2000"]
+  },
+  {
+    "id": 40,
+    "title": "  زمن الماضي الناقص (الماضي المستمر)",
+    "category": ["الأزمنة"],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/mCoqF37plOM?si=p49xJheqI5JZ8Buu",
+    "duration": "12:39",
+"explanation":" ",
+            "pdfs": [],
+"images": []
   }
+
+
   
 ];
  
