@@ -1380,7 +1380,19 @@ thumbnail: "images/image.png",
 "images": []
   }
 
-
+,
+ {
+    "id": 41,
+    "title": " الاسم الموصول ",
+    "category": [""],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/mmbF3f0AZFA?si=yCQ9X0hbr-VFsMrX",
+    "duration": "18:02",
+"explanation":" ",
+            "pdfs": [],
+"images": []
+  }
   
 ];
  
