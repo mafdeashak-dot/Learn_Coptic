@@ -1392,7 +1392,22 @@ thumbnail: "images/image.png",
 "explanation":" ",
             "pdfs": [],
 "images": []
+  },
+{
+    "id": 42,
+    "title": "  ملخص حروف الجر ",
+    "category": [""],
+    "description": "",
+    "thumbnail": "images/image.png",
+    "video": "https://youtu.be/TgL7cSgn1Tw?si=PVZnNK1agyKDiOcE",
+    "duration": "15:43",
+"explanation":" ",
+            "pdfs": [],
+"images": ["https://drive.google.com/thumbnail?id=1J1dkP3-an-tVYNK2lPaJyz29fDM5ZULN&sz=w2000"]
   }
+
+
+
   
 ];
  
@@ -1484,4 +1499,9 @@ const GALLERY_IMAGES = [
 {src: "https://drive.google.com/thumbnail?id=1HgK8wEeyn5XRKYPhnpMmkQEnsU8YJjMp&sz=w2000",
    title:"ملخص النعت "
   },
+
+  {src: "https://drive.google.com/thumbnail?id=1J1dkP3-an-tVYNK2lPaJyz29fDM5ZULN&sz=w2000",
+   title:"ملخص حروف الجر "
+  }
+
 ];
